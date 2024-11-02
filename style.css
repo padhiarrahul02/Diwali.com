@@ -1,0 +1,89 @@
+
+
+.section-1{
+    height: 100vh;
+    width: 100%;
+    background-image: linear-gradient(rgb(0, 0, 0) rgb(0, 0, 255) rgb(255, 255, 0));
+    background-image: url(https://t4.ftcdn.net/jpg/06/54/93/33/360_F_654933377_Mv4khtUoZz6Qan1pWBZYSnjrZsCj3sFl.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+display: grid;
+place-items: center;
+text-align: center;
+background-attachment: fixed;
+}
+p{
+    font-size: 25px;
+    
+    
+    color: rgb(172, 197, 161);
+}
+p::first-letter{
+    font-size: 55px;
+    color: yellow;
+}
+h2:hover{
+    
+    
+    border: 10px double rgb(152, 152, 221);
+}
+p:hover{
+    font-size: 32px;
+}
+
+.section-2{
+    height: 100vh;
+    width: 100%;
+    background-image: url(https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTA4L3Jhd3BpeGVsX29mZmljZV8yOV92ZWN0b3JfaWxsdXN0cmF0aW9uX29mX3N5bW1ldHJpY2FsX2Rpd2FsaV9kaV83MTZkM2RiOC00YjRlLTRjNzMtOTJmNS1lOWE4NWM0ZjFlNzJfMS5qcGc.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+display: grid;
+place-items: center;
+text-align: center;
+
+
+background-attachment: fixed;
+}
+
+
+.section-3{
+    height: 100vh;
+    width: 100%;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJwTNnryLYetxXWoPuG0FlgcKNGUp_GYrReNeIoS0ogFX2HXaCMR_6I7O0cEd7M2-XEU4&usqp=CAU);
+background-repeat: no-repeat;
+background-size: cover;
+display: grid;
+place-content: center;
+text-align: center;
+background-attachment: fixed;
+}
+
+.section-4{
+    height: 100vh;
+    width: 100%;
+    background-image: url(https://t3.ftcdn.net/jpg/09/73/16/64/360_F_973166444_JNihBu7otfb09nQQVw332pSbud2SQHMB.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+display: grid;
+place-items: center;
+text-align: center;
+background-attachment: fixed;
+}
+
+.section-5{
+    height: 100vh;
+    width: 100%;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDY2FQBRUCp1nfdyaTW68gEg5GdL8ScZcPwCi32y5CpnqCWILl0iB-q6BaiFuH5iR9UEU&usqp=CAU);
+background-repeat: no-repeat;
+background-size: cover;
+display: grid;
+text-align: center;
+background-attachment: fixed;
+place-items: center;
+}
+
+
+
+
+
+
